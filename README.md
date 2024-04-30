@@ -9,10 +9,6 @@ React Draggable Sortable List is a dynamic and user-friendly web application tha
 - **Persistent State**: The state of the list is maintained using React’s state management, ensuring continuity even after refreshing or closing the app.
 - **Modular Structure**: The application is built using modular React components, allowing for clear organization and easy customization.
 
-<img width="1379" alt="Screenshot 2024-04-30 at 1 28 35 PM" src="https://github.com/shuddha2021/React-Draggable-Sortable-List/assets/81951239/3e0f1a4c-b372-43ed-a34a-77000996b265">
-
-<img width="1149" alt="Screenshot 2024-04-30 at 1 31 35 PM" src="https://github.com/shuddha2021/React-Draggable-Sortable-List/assets/81951239/47213440-0c38-4c16-a7eb-67a5522471db">
-
 
 ## Core Logic
 

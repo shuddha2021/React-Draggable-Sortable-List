@@ -11,7 +11,8 @@ React Draggable Sortable List is a dynamic and user-friendly web application tha
 
 <img width="1379" alt="Screenshot 2024-04-30 at 1 28 35 PM" src="https://github.com/shuddha2021/React-Draggable-Sortable-List/assets/81951239/3e0f1a4c-b372-43ed-a34a-77000996b265">
 
-<img width="1379" alt="Screenshot 2024-04-30 at 1 28 45 PM" src="https://github.com/shuddha2021/React-Draggable-Sortable-List/assets/81951239/4e55b8f1-a9ac-4c68-bbc1-affba0b1d94b">
+<img width="1197" alt="Screenshot 2024-04-30 at 1 30 00 PM" src="https://github.com/shuddha2021/React-Draggable-Sortable-List/assets/81951239/08738bdd-421e-4b24-a34c-b4ce9280fa84">
+
 
 ## Core Logic
 
